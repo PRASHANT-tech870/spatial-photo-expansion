@@ -32,8 +32,8 @@ pip install -r requirements.txt
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/2d-to-spatial-converter.git
-cd 2d-to-spatial-converter
+git clone https://github.com/PRASHANT-tech870/spatial-photo-expansion.git
+cd spatial-photo-expansion
 ```
 
 2. Install the required dependencies:
