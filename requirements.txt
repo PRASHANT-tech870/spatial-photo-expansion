@@ -1,0 +1,8 @@
+transformers
+pillow
+numpy
+scipy
+opencv-python
+torch
+torchvision
+torchaudio
